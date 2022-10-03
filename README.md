@@ -1,3 +1,3 @@
-# Design
+# Busie Business App
 
-Frontend Ui design of the landing page of a business website
+Frontend design of the landing page of a business website
